@@ -6,5 +6,3 @@ The user enters the student's name and grade, then the program classifies it int
 
 ## How to run:
 Run the file using Python.
-
-python ILA.py
